@@ -1,0 +1,4 @@
+# vars/main.yml
+
+# Variables for WordPress role
+load_balancer_ip: "49.13.43.123"
